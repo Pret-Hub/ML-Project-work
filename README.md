@@ -36,7 +36,9 @@ Technologies Used
 Future Work
 
 -> Explore scaling to multi-class classification.
+
 -> Investigate performance on other datasets.
+
 -> Optimize quantum circuit design for improved accuracy.
 
 This project showcases the application of quantum machine learning techniques to a classical problem, highlighting the potential of quantum computing in handling tasks with minimal data input.

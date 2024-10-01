@@ -22,6 +22,7 @@ Training: Utilizes hinge loss and a custom hinge accuracy metric.
 Results
 
 -> Achieved 82% accuracy in binary classification.
+
 -> Demonstrates the potential of quantum computing in pattern recognition tasks with severely limited data input.
 
 Technologies Used
